@@ -123,7 +123,7 @@ int main() {
         years[size++] = year;  
     }  
 
-    // Sort
+    // Sort 
     sort(titles, years, size);
 
     // Search interface  
